@@ -1,0 +1,482 @@
+{
+  "version": "0.1.0",
+  "status": "published",
+  "questions": [
+    {
+      "id": "nausea-01",
+      "title": "吃不下早餐，要不要硬补？",
+      "category": "孕期照护",
+      "topic": "pregnancy",
+      "stage": "孕 9 周",
+      "scenario": "妻子孕9周，近两天早上恶心、吃得少，但能喝水，无明显体重变化。家人建议每天灌一大碗浓汤，她闻到味道更想吐。目前没有提供尿量、腹痛和发热信息。",
+      "options": [
+        {
+          "key": "A",
+          "text": "先按平时的早餐量吃，吃不下就用浓汤补齐。"
+        },
+        {
+          "key": "B",
+          "text": "问清能否留住水、尿量和其他不适，少量多次吃喝，避开让她恶心的气味。"
+        },
+        {
+          "key": "C",
+          "text": "既然能喝水，先不问其他症状，等体重下降了再处理。"
+        },
+        {
+          "key": "D",
+          "text": "先停掉固体食物，等恶心完全消失再恢复。"
+        }
+      ],
+      "best": "B",
+      "explanations": {
+        "A": "按原来的量补齐可能加重不适，题目已说明浓汤气味会诱发恶心。",
+        "B": "少量多次、按耐受调整比较容易执行，同时保留了发现脱水或其他警讯的机会。",
+        "C": "能喝水是有用信息，尿量、头晕等变化也可能先出现。",
+        "D": "对尚能吃喝的轻度不适，可以先从能接受的少量食物开始。"
+      },
+      "sources": [
+        {
+          "id": "nhs-nausea",
+          "publisher": "NHS",
+          "title": "Vomiting and morning sickness",
+          "url": "https://www.nhs.uk/pregnancy/common-symptoms/vomiting-and-morning-sickness/"
+        }
+      ],
+      "focus": "轻度孕吐的日常处理",
+      "revision": 1,
+      "tags": [
+        "孕吐",
+        "饮食与补水"
+      ]
+    },
+    {
+      "id": "sleep-01",
+      "title": "吐奶之后，侧着睡更安全吗？",
+      "category": "婴儿照护",
+      "topic": "baby",
+      "stage": "宝宝 6 周",
+      "scenario": "6周大的宝宝偶尔吐奶，目前一般状态好，未提及呼吸困难。家人担心仰卧会呛着，建议侧睡并用枕头固定，再把床头垫高。你负责今晚的睡眠安排。",
+      "options": [
+        {
+          "key": "A",
+          "text": "让宝宝侧卧，拿掉枕头，把床面放平。"
+        },
+        {
+          "key": "B",
+          "text": "让宝宝仰卧，垫高床头来减少吐奶。"
+        },
+        {
+          "key": "C",
+          "text": "有人看着时让宝宝趴睡，没人时改仰卧。"
+        },
+        {
+          "key": "D",
+          "text": "让宝宝仰卧，放在坚实、平坦、水平的睡面上，拿掉枕头。"
+        }
+      ],
+      "best": "D",
+      "explanations": {
+        "A": "平坦睡面是有用的调整，但侧卧本身不稳定。",
+        "B": "仰卧符合建议，抬高床头仍偏离水平睡面的要求。",
+        "C": "普通吐奶没有提供改成趴睡的依据。每次放下睡觉时都应从仰卧开始。",
+        "D": "这个做法同时照顾了睡姿和睡眠环境。普通吐奶并不改变这两个要求。"
+      },
+      "sources": [
+        {
+          "id": "nih-back",
+          "publisher": "NIH / NICHD",
+          "title": "About Back Sleeping",
+          "url": "https://safetosleep.nichd.nih.gov/reduce-risk/back-sleeping"
+        },
+        {
+          "id": "nih-environment",
+          "publisher": "NIH / NICHD",
+          "title": "Safe Sleep Environment for Baby",
+          "url": "https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment"
+        }
+      ],
+      "focus": "婴儿安全睡眠",
+      "revision": 1,
+      "tags": [
+        "安全睡眠",
+        "吐奶"
+      ]
+    },
+    {
+      "id": "infant-fever-01",
+      "title": "七周宝宝发热，还能先观察一晚吗？",
+      "category": "婴儿照护",
+      "topic": "baby",
+      "stage": "宝宝 7 周",
+      "scenario": "7周大的宝宝，按数字体温计说明测得腋温38.2°C，刚才没有洗澡，也没有过度包裹。家人说“大人发烧都先观察，宝宝还能喝奶就不用急”。目前没有提供呼吸、清醒程度和尿布情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "尽快联系当地医疗服务安排评估，说明宝宝的年龄、温度和测量方式。"
+        },
+        {
+          "key": "B",
+          "text": "每隔一会儿重测，等体温再升高才联系。"
+        },
+        {
+          "key": "C",
+          "text": "宝宝还在喝奶，先观察一夜，明早再决定。"
+        },
+        {
+          "key": "D",
+          "text": "先想办法让体温降下来，降下来就继续在家观察。"
+        }
+      ],
+      "best": "A",
+      "explanations": {
+        "A": "题目中的年龄和体温已达到应尽快接受医疗评估的条件。",
+        "B": "这个年龄的求助条件已经满足，等待读数更高会延误评估。",
+        "C": "还能喝奶有助于描述状态，这个信息不改变低龄婴儿发热的求助条件。",
+        "D": "即使体温读数下降，宝宝的年龄和此前的发热仍需纳入评估。"
+      },
+      "sources": [
+        {
+          "id": "nhs-infant-fever",
+          "publisher": "NHS",
+          "title": "High temperature (fever) in children",
+          "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+        }
+      ],
+      "focus": "低龄婴儿发热的就医时机",
+      "revision": 1,
+      "tags": [
+        "发热",
+        "就医时机"
+      ]
+    },
+    {
+      "id": "postpartum-warning-01",
+      "title": "产后十天，头痛能都归因于没睡好吗？",
+      "category": "产后照护",
+      "topic": "postpartum",
+      "stage": "产后 10 天",
+      "scenario": "妻子分娩后10天，今天头痛一直没有缓解，感觉越来越重，还说看东西有些模糊。家人认为是夜间照顾宝宝太累，让她睡一觉就好。目前没有血压读数，也没有医生对这次症状的评估。",
+      "options": [
+        {
+          "key": "A",
+          "text": "先安排睡一觉，醒来仍头痛再联系。"
+        },
+        {
+          "key": "B",
+          "text": "等拿到血压计测出异常，再决定要不要求助。"
+        },
+        {
+          "key": "C",
+          "text": "立即寻求医疗帮助，说明产后第十天、头痛加重和视物模糊。"
+        },
+        {
+          "key": "D",
+          "text": "先发消息预约常规产后检查，等诊所回复。"
+        }
+      ],
+      "best": "C",
+      "explanations": {
+        "A": "休息不能排除持续加重头痛和视力变化所提示的产后风险。",
+        "B": "没有血压读数也能识别这两个危险信号，等待测量会推迟评估。",
+        "C": "持续加重头痛伴视力变化是产后危险信号。说明产后时间和症状变化有助于沟通。",
+        "D": "常规预约的等待时间与案例需要的及时程度不匹配。"
+      },
+      "sources": [
+        {
+          "id": "cdc-maternal-warning",
+          "publisher": "CDC / HEAR HER",
+          "title": "Urgent Maternal Warning Signs and Symptoms",
+          "url": "https://www.cdc.gov/hearher/maternal-warning-signs/index.html"
+        }
+      ],
+      "focus": "产后危险信号",
+      "revision": 1,
+      "tags": [
+        "产后危险信号",
+        "就医时机"
+      ]
+    },
+    {
+      "id": "folic-supplement-01",
+      "title": "已经吃了孕期维生素，还要再加一瓶叶酸吗？",
+      "category": "孕期照护",
+      "topic": "pregnancy",
+      "stage": "孕 7 周",
+      "scenario": "妻子孕7周，正在吃一款孕期复合维生素，标签写每日日用量含叶酸400微克。家人又买来一瓶叶酸，认为“多吃一点更保险”。目前未了解既往妊娠、相关家族史、糖尿病或长期用药情况。",
+      "options": [
+        {
+          "key": "A",
+          "text": "先把两种都吃上，额外补一些更保险。"
+        },
+        {
+          "key": "B",
+          "text": "核对复合维生素每日含量和风险史，先不自行叠加，拿标签向产科医生或药师确认。"
+        },
+        {
+          "key": "C",
+          "text": "看到标签写着400微克，就认定无需再核对个人情况。"
+        },
+        {
+          "key": "D",
+          "text": "先停掉所有补充剂，用叶酸丰富的食物代替。"
+        }
+      ],
+      "best": "B",
+      "explanations": {
+        "A": "额外叠加会改变实际摄入量，是否需要更高剂量取决于个人风险。",
+        "B": "标签能帮助算清已经补了多少，风险史与用药则决定一般建议是否适用。",
+        "C": "标签回答了产品含量，高风险情况仍可能改变方案。",
+        "D": "NHS 指出仅靠食物较难达到建议摄入量，调整补充方案前应结合当地专业建议。"
+      },
+      "sources": [
+        {
+          "id": "nhs-pregnancy-supplements",
+          "publisher": "NHS",
+          "title": "Pregnancy vitamins and supplements",
+          "url": "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/"
+        }
+      ],
+      "focus": "补充剂叠加与风险史",
+      "revision": 1,
+      "tags": [
+        "叶酸",
+        "营养补充"
+      ]
+    },
+    {
+      "id": "pregnancy-medicine-01",
+      "title": "发现怀孕，长期处方药要马上停吗？",
+      "category": "孕期照护",
+      "topic": "pregnancy",
+      "stage": "刚确认怀孕",
+      "scenario": "妻子刚发现怀孕，一直在按处方服用控制慢性病的药物。她看到“孕期用药可能影响胎儿”，想今晚起全部停药，再改用朋友推荐的“纯天然草本”。药名、剂量及病情尚未提供，也未出现急性不适。",
+      "options": [
+        {
+          "key": "A",
+          "text": "今晚先停药，等下次产检再问。"
+        },
+        {
+          "key": "B",
+          "text": "先换成草本产品，等医生有空再沟通。"
+        },
+        {
+          "key": "C",
+          "text": "记下药名、剂量和病情，尽快联系处方医生，在确认前不自行改药。"
+        },
+        {
+          "key": "D",
+          "text": "既然是长期处方，就按原方案吃到分娩，不必专门咨询。"
+        }
+      ],
+      "best": "C",
+      "explanations": {
+        "A": "自行停药也可能带来风险，需要尽快和处方医生核对。",
+        "B": "草本产品同样需要核对妊娠期适用性，自行替换也涉及停药风险。",
+        "C": "这是同时处理用药与停药风险的做法。具体方案取决于药物、病情和专业评估。",
+        "D": "长期用药也值得在确认怀孕后尽快复核，由医生综合评估。"
+      },
+      "sources": [
+        {
+          "id": "nhs-pregnancy-medicines",
+          "publisher": "NHS",
+          "title": "Medicines in pregnancy",
+          "url": "https://www.nhs.uk/pregnancy/keeping-well/medicines/"
+        }
+      ],
+      "focus": "孕期处方药复核",
+      "revision": 1,
+      "tags": [
+        "孕期用药",
+        "慢病管理"
+      ]
+    },
+    {
+      "id": "floor-cleaning-01",
+      "topic": "baby",
+      "stage": "开始爬行",
+      "title": "宝宝开始爬，客厅地板怎么清洁？",
+      "scenario": "家里没人患病，地板无特殊污染。你想在宝宝每天爬行的客厅保持适度清洁。",
+      "focus": "区分常规清洁和按需消毒",
+      "best": "B",
+      "revision": 1,
+      "category": "婴儿照护",
+      "options": [
+        {
+          "key": "A",
+          "text": "每天先清洁，再用地板适用的消毒剂处理整个客厅。"
+        },
+        {
+          "key": "B",
+          "text": "按地板材质定期清洁，弄脏就及时擦，有需要时再消毒。"
+        },
+        {
+          "key": "C",
+          "text": "重点清洁门把手和桌面，地板平时只用吸尘器。"
+        },
+        {
+          "key": "D",
+          "text": "清洁地板后，每天另外消毒宝宝常爬的一小块。"
+        }
+      ],
+      "explanations": {
+        "A": "先清洁是对的，但当前情境通常用不到每天全屋消毒。",
+        "B": "适合地板的清洁产品能去除污垢和多数表面病原体，有人患病等情况再按需消毒。",
+        "C": "吸尘适合去除浮尘，有污垢时还应按材质湿擦或清洁。",
+        "D": "缩小范围能减少工作量，但无额外风险时通常无需每天消毒。"
+      },
+      "sources": [
+        {
+          "id": "cdc-floor-cleaning-01",
+          "publisher": "CDC",
+          "title": "When and How to Clean and Disinfect Your Home",
+          "url": "https://www.cdc.gov/hygiene/about/when-and-how-to-clean-and-disinfect-your-home.html"
+        }
+      ],
+      "tags": [
+        "家庭清洁",
+        "消毒"
+      ]
+    },
+    {
+      "id": "deli-meat-01",
+      "topic": "pregnancy",
+      "stage": "孕 11 周",
+      "title": "冷切肉怎么吃更稳妥？",
+      "scenario": "妻子想用刚开封、仍在保质期内的冷切火鸡肉做三明治。哪种处理更符合 CDC 降低李斯特菌风险的建议？",
+      "focus": "即食冷切肉的加热处理",
+      "best": "C",
+      "revision": 1,
+      "category": "孕期照护",
+      "options": [
+        {
+          "key": "A",
+          "text": "保持冷藏，做好三明治后立即吃。"
+        },
+        {
+          "key": "B",
+          "text": "用平底锅将肉片加热到温热即可。"
+        },
+        {
+          "key": "C",
+          "text": "把肉片加热至约74°C或热到冒蒸汽再吃。"
+        },
+        {
+          "key": "D",
+          "text": "先把三明治面包烤热，再放入冷肉片。"
+        }
+      ],
+      "explanations": {
+        "A": "冷藏和及时食用是良好习惯，仍需考虑冷切肉的加热。",
+        "B": "温热没有达到指南给出的加热条件。",
+        "C": "CDC 建议孕期把这类冷切肉加热到约74°C或冒蒸汽，以降低李斯特菌风险。",
+        "D": "需要加热的是冷切肉本身。"
+      },
+      "sources": [
+        {
+          "id": "cdc-deli-meat-01",
+          "publisher": "CDC",
+          "title": "Safer Food Choices for Pregnant Women",
+          "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+        }
+      ],
+      "tags": [
+        "食品安全",
+        "李斯特菌"
+      ]
+    },
+    {
+      "id": "honey-01",
+      "topic": "baby",
+      "stage": "宝宝 9 个月",
+      "title": "辅食里能加一点蜂蜜吗？",
+      "scenario": "你给9个月大的宝宝做燕麦粥。家人建议加少量蜂蜜，觉得甜一点宝宝更容易接受。你会怎么做？",
+      "focus": "一岁前避免蜂蜜",
+      "best": "A",
+      "revision": 1,
+      "category": "婴儿照护",
+      "options": [
+        {
+          "key": "A",
+          "text": "这次不加蜂蜜，想换口味可配已经尝试过的无糖果泥。"
+        },
+        {
+          "key": "B",
+          "text": "选经过巴氏杀菌的蜂蜜，少量调味。"
+        },
+        {
+          "key": "C",
+          "text": "把蜂蜜加进粥里一起煮，凉了再喂。"
+        },
+        {
+          "key": "D",
+          "text": "用蜂蜜先给宝宝尝一点，观察有没有过敏。"
+        }
+      ],
+      "explanations": {
+        "A": "一岁前避免蜂蜜，主要考虑婴儿肉毒中毒风险。",
+        "B": "指南的一岁前禁用建议也适用于这类蜂蜜。",
+        "C": "家庭煮粥不能作为规避蜂蜜风险的依据。",
+        "D": "没有过敏反应也无法说明没有肉毒中毒风险。"
+      },
+      "sources": [
+        {
+          "id": "cdc-honey-01",
+          "publisher": "CDC",
+          "title": "Foods and Drinks to Avoid or Limit",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html"
+        }
+      ],
+      "tags": [
+        "辅食",
+        "食品安全"
+      ]
+    },
+    {
+      "id": "formula-leftover-01",
+      "topic": "baby",
+      "stage": "宝宝 4 个月",
+      "title": "奶瓶喝剩的配方奶怎么处理？",
+      "scenario": "宝宝刚喝过一瓶配方奶，还剩少量，已经结束这次喂养。家里想留到下次喝。你会怎么做？",
+      "focus": "区分喂过的剩奶和未开始喂的配方奶",
+      "best": "D",
+      "revision": 1,
+      "category": "婴儿照护",
+      "options": [
+        {
+          "key": "A",
+          "text": "马上冷藏剩奶，下次喝之前再温热。"
+        },
+        {
+          "key": "B",
+          "text": "把剩奶倒进干净奶瓶，下次喂。"
+        },
+        {
+          "key": "C",
+          "text": "趁还温热，用它和下一次新冲的奶混合。"
+        },
+        {
+          "key": "D",
+          "text": "倒掉这次喂剩的奶，下次使用清洁的奶瓶重新准备。"
+        }
+      ],
+      "explanations": {
+        "A": "开始喂养后，唾液已可能进入奶瓶，剩奶应倒掉。",
+        "B": "换瓶无法消除已经进入剩奶的唾液。",
+        "C": "混入新奶也无法消除剩奶的污染风险。",
+        "D": "喂完后把奶瓶中的剩奶倒掉，奶瓶清洁后再使用。"
+      },
+      "sources": [
+        {
+          "id": "cdc-formula-leftover-01",
+          "publisher": "CDC",
+          "title": "Infant Formula Preparation and Storage",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/formula-feeding/preparation-and-storage.html"
+        }
+      ],
+      "tags": [
+        "配方奶",
+        "食品安全"
+      ]
+    }
+  ]
+}
